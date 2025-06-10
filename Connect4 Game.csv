@@ -1,0 +1,10 @@
+Player 1 email,Player 2 email,Winner,no. of player 1 moves,no. of player 2 moves,draw,Hypothesis P1,hypothesis P2
+test@gmail.com,Computer,test@gmail.com,4,3,no,1,0
+hello@gmail.com,Computer,hello@gmail.com,6,5,no,0,0
+hello@gmail.com,test@gmail.com,hello@gmail.com,15,14,no,0,0
+hello@gmail.com,Computer,hello@gmail.com,8,7,no,2,0
+test@gmail.com,hello@gmail.com#,test@gmail.com,4,3,no,0,0
+test@gmail.com,Computer,test@gmail.com,7,6,no,1,0
+urmom@gmail.com,Computer,urmom@gmail.com,4,3,no,0,0
+urmom@gmail.com,Computer,urmom@gmail.com,4,3,no,0,0
+urmom@gmail.com,Computer,urmom@gmail.com,5,4,no,0,0
